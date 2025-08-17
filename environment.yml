@@ -1,0 +1,16 @@
+name: netflix-movie-recommender
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scipy
+  - numpy
+  - ipykernel
+  - notebook
+  - pyarrow
+  - scikit-surprise
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+prefix: /opt/anaconda3/envs/netflix-movie-recommender
